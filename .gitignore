@@ -1,0 +1,11 @@
+.settings
+.project
+.svn
+leopard.zip
+leopard-platform-web/src/main/resources/static/upload/*
+!leopard-platform-web/src/main/resources/static/upload/config
+.classpath
+.idea
+target
+logs
+*.iml

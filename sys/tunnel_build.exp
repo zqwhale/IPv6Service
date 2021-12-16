@@ -1,0 +1,18 @@
+#!/usr/bin/expect -f
+set MapPort [lindex $argv 0]
+set LocalHost [lindex $argv 1]
+set LocalPort [lindex $argv 2]
+
+set RemoteUser [lindex $argv 3]
+set RemoteHost [lindex $argv 4]
+set RemotePort [lindex $argv 5]
+
+set RPwd [lindex $argv 6]
+set timeout 5
+
+spawn ssh -f -N -R $MapPort:$LocalHost:$LocalPort $RemoteUser@$RemoteHost -p $RemotePort
+expect {
+	"*yes/no*" {send "yes\r";exp_continue}
+    "*password*" {send "$RPwd\n"}
+}
+expect eof

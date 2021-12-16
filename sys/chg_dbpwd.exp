@@ -1,0 +1,12 @@
+#!/usr/bin/expect -f
+set dbUser [lindex $argv 0]
+set dbPwd	[lindex $argv 1]
+set dbName	[lindex $argv 2]
+
+spawn mysql -u$dbUser -p
+expect {
+	"Enter password:" {send "$dbPwd\r"};
+}
+expect "*mysql>" {send "use $dbName;\r" };
+expect "*mysql>" {send "show tables;\r" };
+expect eof

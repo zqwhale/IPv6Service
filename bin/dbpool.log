@@ -1,0 +1,368 @@
+星期六 六月 13 03:34:32.695 +0800 2015: Registered JDBC driver com.mysql.jdbc.Driver
+星期六 六月 13 03:34:32.707 +0800 2015: Enabling debug info on pool mqeye
+星期六 六月 13 03:34:32.707 +0800 2015: Initialized pool mqeye (pool=50,max=50,expiry=none)
+星期六 六月 13:03:34:32 707 +0800 2015: mqeye: Getting connection (user/pass): jdbc:mysql://127.0.0.1:3306/MQeye?useUnicode=true&characterEncoding=UTF-8
+星期六 六月 13:03:34:33 016 +0800 2015: mqeye: Created a new connection
+星期六 六月 13:03:34:33 017 +0800 2015: mqeye: Checkout - 1/1 (HitRate=0.0%)
+星期六 六月 13:03:34:33 018 +0800 2015: mqeye: Statement cache miss [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 0.0% hit rate
+星期六 六月 13:03:34:33 033 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 034 +0800 2015: mqeye: Checkout - 1/1 (HitRate=50.0%)
+星期六 六月 13:03:34:33 034 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 50.0% hit rate
+星期六 六月 13:03:34:33 036 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 039 +0800 2015: mqeye: Checkout - 1/1 (HitRate=66.66667%)
+星期六 六月 13:03:34:33 039 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 66.66667% hit rate
+星期六 六月 13:03:34:33 043 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 045 +0800 2015: mqeye: Checkout - 1/1 (HitRate=75.0%)
+星期六 六月 13:03:34:33 045 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 75.0% hit rate
+星期六 六月 13:03:34:33 048 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 048 +0800 2015: mqeye: Checkout - 1/1 (HitRate=80.0%)
+星期六 六月 13:03:34:33 048 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 80.0% hit rate
+星期六 六月 13:03:34:33 051 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 051 +0800 2015: mqeye: Checkout - 1/1 (HitRate=83.33333%)
+星期六 六月 13:03:34:33 052 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 83.33333% hit rate
+星期六 六月 13:03:34:33 062 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 064 +0800 2015: mqeye: Checkout - 1/1 (HitRate=85.71429%)
+星期六 六月 13:03:34:33 064 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 85.71429% hit rate
+星期六 六月 13:03:34:33 065 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 065 +0800 2015: mqeye: Checkout - 1/1 (HitRate=87.5%)
+星期六 六月 13:03:34:33 065 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 87.5% hit rate
+星期六 六月 13:03:34:33 067 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 067 +0800 2015: mqeye: Checkout - 1/1 (HitRate=88.88889%)
+星期六 六月 13:03:34:33 067 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 88.88889% hit rate
+星期六 六月 13:03:34:33 068 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 069 +0800 2015: mqeye: Checkout - 1/1 (HitRate=90.0%)
+星期六 六月 13:03:34:33 069 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 90.0% hit rate
+星期六 六月 13:03:34:33 071 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 071 +0800 2015: mqeye: Checkout - 1/1 (HitRate=90.909096%)
+星期六 六月 13:03:34:33 071 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 90.909096% hit rate
+星期六 六月 13:03:34:33 073 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 073 +0800 2015: mqeye: Checkout - 1/1 (HitRate=91.66667%)
+星期六 六月 13:03:34:33 073 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 91.66667% hit rate
+星期六 六月 13:03:34:33 075 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 075 +0800 2015: mqeye: Checkout - 1/1 (HitRate=92.30769%)
+星期六 六月 13:03:34:33 076 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 92.30769% hit rate
+星期六 六月 13:03:34:33 077 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 077 +0800 2015: mqeye: Checkout - 1/1 (HitRate=92.85714%)
+星期六 六月 13:03:34:33 077 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 92.85714% hit rate
+星期六 六月 13:03:34:33 079 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 080 +0800 2015: mqeye: Checkout - 1/1 (HitRate=93.333336%)
+星期六 六月 13:03:34:33 080 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 93.333336% hit rate
+星期六 六月 13:03:34:33 081 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 081 +0800 2015: mqeye: Checkout - 1/1 (HitRate=93.75%)
+星期六 六月 13:03:34:33 081 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 93.75% hit rate
+星期六 六月 13:03:34:33 083 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 084 +0800 2015: mqeye: Checkout - 1/1 (HitRate=94.117645%)
+星期六 六月 13:03:34:33 084 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 94.117645% hit rate
+星期六 六月 13:03:34:33 085 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 085 +0800 2015: mqeye: Checkout - 1/1 (HitRate=94.44444%)
+星期六 六月 13:03:34:33 086 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 94.44444% hit rate
+星期六 六月 13:03:34:33 088 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 088 +0800 2015: mqeye: Checkout - 1/1 (HitRate=94.73685%)
+星期六 六月 13:03:34:33 089 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 94.73685% hit rate
+星期六 六月 13:03:34:33 094 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 095 +0800 2015: mqeye: Checkout - 1/1 (HitRate=95.0%)
+星期六 六月 13:03:34:33 095 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 95.0% hit rate
+星期六 六月 13:03:34:33 095 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 096 +0800 2015: mqeye: Checkout - 1/1 (HitRate=95.2381%)
+星期六 六月 13:03:34:33 096 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 95.2381% hit rate
+星期六 六月 13:03:34:33 097 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 097 +0800 2015: mqeye: Checkout - 1/1 (HitRate=95.454544%)
+星期六 六月 13:03:34:33 098 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 95.454544% hit rate
+星期六 六月 13:03:34:33 103 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 103 +0800 2015: mqeye: Checkout - 1/1 (HitRate=95.652176%)
+星期六 六月 13:03:34:33 103 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 95.652176% hit rate
+星期六 六月 13:03:34:33 106 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 106 +0800 2015: mqeye: Checkout - 1/1 (HitRate=95.83333%)
+星期六 六月 13:03:34:33 106 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 95.83333% hit rate
+星期六 六月 13:03:34:33 113 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 113 +0800 2015: mqeye: Checkout - 1/1 (HitRate=96.0%)
+星期六 六月 13:03:34:33 113 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 96.0% hit rate
+星期六 六月 13:03:34:33 114 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 114 +0800 2015: mqeye: Checkout - 1/1 (HitRate=96.15385%)
+星期六 六月 13:03:34:33 114 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 96.15385% hit rate
+星期六 六月 13:03:34:33 117 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 117 +0800 2015: mqeye: Checkout - 1/1 (HitRate=96.296295%)
+星期六 六月 13:03:34:33 117 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 96.296295% hit rate
+星期六 六月 13:03:34:33 119 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 119 +0800 2015: mqeye: Checkout - 1/1 (HitRate=96.42857%)
+星期六 六月 13:03:34:33 119 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 96.42857% hit rate
+星期六 六月 13:03:34:33 122 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 122 +0800 2015: mqeye: Checkout - 1/1 (HitRate=96.55172%)
+星期六 六月 13:03:34:33 122 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 96.55172% hit rate
+星期六 六月 13:03:34:33 128 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 129 +0800 2015: mqeye: Checkout - 1/1 (HitRate=96.666664%)
+星期六 六月 13:03:34:33 129 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 96.666664% hit rate
+星期六 六月 13:03:34:33 129 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 130 +0800 2015: mqeye: Checkout - 1/1 (HitRate=96.77419%)
+星期六 六月 13:03:34:33 130 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 96.77419% hit rate
+星期六 六月 13:03:34:33 131 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 131 +0800 2015: mqeye: Checkout - 1/1 (HitRate=96.875%)
+星期六 六月 13:03:34:33 132 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 96.875% hit rate
+星期六 六月 13:03:34:33 135 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 135 +0800 2015: mqeye: Checkout - 1/1 (HitRate=96.969696%)
+星期六 六月 13:03:34:33 136 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 96.969696% hit rate
+星期六 六月 13:03:34:33 138 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 139 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.05882%)
+星期六 六月 13:03:34:33 139 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.05882% hit rate
+星期六 六月 13:03:34:33 145 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 146 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.14286%)
+星期六 六月 13:03:34:33 146 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.14286% hit rate
+星期六 六月 13:03:34:33 146 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 147 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.22222%)
+星期六 六月 13:03:34:33 147 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.22222% hit rate
+星期六 六月 13:03:34:33 148 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 148 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.2973%)
+星期六 六月 13:03:34:33 149 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.2973% hit rate
+星期六 六月 13:03:34:33 150 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 150 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.368416%)
+星期六 六月 13:03:34:33 150 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.368416% hit rate
+星期六 六月 13:03:34:33 153 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 153 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.4359%)
+星期六 六月 13:03:34:33 153 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.4359% hit rate
+星期六 六月 13:03:34:33 158 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 159 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.5%)
+星期六 六月 13:03:34:33 159 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.5% hit rate
+星期六 六月 13:03:34:33 159 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 160 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.560974%)
+星期六 六月 13:03:34:33 160 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.560974% hit rate
+星期六 六月 13:03:34:33 161 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 162 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.61904%)
+星期六 六月 13:03:34:33 162 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.61904% hit rate
+星期六 六月 13:03:34:33 163 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 163 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.674416%)
+星期六 六月 13:03:34:33 163 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.674416% hit rate
+星期六 六月 13:03:34:33 167 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 167 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.72727%)
+星期六 六月 13:03:34:33 168 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.72727% hit rate
+星期六 六月 13:03:34:33 176 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 176 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.77778%)
+星期六 六月 13:03:34:33 177 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.77778% hit rate
+星期六 六月 13:03:34:33 177 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 178 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.82609%)
+星期六 六月 13:03:34:33 178 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.82609% hit rate
+星期六 六月 13:03:34:33 180 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 180 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.87234%)
+星期六 六月 13:03:34:33 180 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.87234% hit rate
+星期六 六月 13:03:34:33 182 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 182 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.91667%)
+星期六 六月 13:03:34:33 182 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.91667% hit rate
+星期六 六月 13:03:34:33 185 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 185 +0800 2015: mqeye: Checkout - 1/1 (HitRate=97.95918%)
+星期六 六月 13:03:34:33 185 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 97.95918% hit rate
+星期六 六月 13:03:34:33 187 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 187 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.0%)
+星期六 六月 13:03:34:33 187 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.0% hit rate
+星期六 六月 13:03:34:33 191 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 191 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.039215%)
+星期六 六月 13:03:34:33 191 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.039215% hit rate
+星期六 六月 13:03:34:33 198 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 199 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.07692%)
+星期六 六月 13:03:34:33 199 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.07692% hit rate
+星期六 六月 13:03:34:33 199 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 200 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.11321%)
+星期六 六月 13:03:34:33 200 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.11321% hit rate
+星期六 六月 13:03:34:33 202 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 202 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.14815%)
+星期六 六月 13:03:34:33 202 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.14815% hit rate
+星期六 六月 13:03:34:33 204 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 204 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.18182%)
+星期六 六月 13:03:34:33 204 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.18182% hit rate
+星期六 六月 13:03:34:33 208 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 208 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.21429%)
+星期六 六月 13:03:34:33 209 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.21429% hit rate
+星期六 六月 13:03:34:33 215 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 215 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.24561%)
+星期六 六月 13:03:34:33 215 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.24561% hit rate
+星期六 六月 13:03:34:33 216 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 216 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.27586%)
+星期六 六月 13:03:34:33 216 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.27586% hit rate
+星期六 六月 13:03:34:33 218 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 218 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.305084%)
+星期六 六月 13:03:34:33 219 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.305084% hit rate
+星期六 六月 13:03:34:33 220 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 220 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.333336%)
+星期六 六月 13:03:34:33 220 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.333336% hit rate
+星期六 六月 13:03:34:33 224 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 225 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.36066%)
+星期六 六月 13:03:34:33 225 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.36066% hit rate
+星期六 六月 13:03:34:33 233 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 233 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.3871%)
+星期六 六月 13:03:34:33 233 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.3871% hit rate
+星期六 六月 13:03:34:33 234 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 234 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.4127%)
+星期六 六月 13:03:34:33 234 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.4127% hit rate
+星期六 六月 13:03:34:33 236 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 236 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.4375%)
+星期六 六月 13:03:34:33 236 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.4375% hit rate
+星期六 六月 13:03:34:33 238 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 238 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.46154%)
+星期六 六月 13:03:34:33 238 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.46154% hit rate
+星期六 六月 13:03:34:33 242 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 242 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.48485%)
+星期六 六月 13:03:34:33 243 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.48485% hit rate
+星期六 六月 13:03:34:33 246 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 247 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.50746%)
+星期六 六月 13:03:34:33 247 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.50746% hit rate
+星期六 六月 13:03:34:33 248 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 248 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.52941%)
+星期六 六月 13:03:34:33 248 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.52941% hit rate
+星期六 六月 13:03:34:33 250 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 250 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.55073%)
+星期六 六月 13:03:34:33 250 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.55073% hit rate
+星期六 六月 13:03:34:33 252 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 252 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.57143%)
+星期六 六月 13:03:34:33 252 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.57143% hit rate
+星期六 六月 13:03:34:33 256 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 256 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.591545%)
+星期六 六月 13:03:34:33 256 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.591545% hit rate
+星期六 六月 13:03:34:33 261 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 261 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.61111%)
+星期六 六月 13:03:34:33 262 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.61111% hit rate
+星期六 六月 13:03:34:33 262 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 263 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.630135%)
+星期六 六月 13:03:34:33 263 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.630135% hit rate
+星期六 六月 13:03:34:33 265 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 265 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.64865%)
+星期六 六月 13:03:34:33 265 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.64865% hit rate
+星期六 六月 13:03:34:33 267 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 267 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.66667%)
+星期六 六月 13:03:34:33 267 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.66667% hit rate
+星期六 六月 13:03:34:33 270 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 270 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.68421%)
+星期六 六月 13:03:34:33 271 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.68421% hit rate
+星期六 六月 13:03:34:33 277 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 277 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.7013%)
+星期六 六月 13:03:34:33 277 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.7013% hit rate
+星期六 六月 13:03:34:33 278 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 278 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.71795%)
+星期六 六月 13:03:34:33 278 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.71795% hit rate
+星期六 六月 13:03:34:33 280 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 281 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.73418%)
+星期六 六月 13:03:34:33 281 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.73418% hit rate
+星期六 六月 13:03:34:33 282 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 283 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.75%)
+星期六 六月 13:03:34:33 283 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.75% hit rate
+星期六 六月 13:03:34:33 287 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 287 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.765434%)
+星期六 六月 13:03:34:33 287 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.765434% hit rate
+星期六 六月 13:03:34:33 295 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 296 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.78049%)
+星期六 六月 13:03:34:33 296 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.78049% hit rate
+星期六 六月 13:03:34:33 297 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 297 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.79518%)
+星期六 六月 13:03:34:33 297 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.79518% hit rate
+星期六 六月 13:03:34:33 299 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 299 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.809525%)
+星期六 六月 13:03:34:33 300 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.809525% hit rate
+星期六 六月 13:03:34:33 301 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 301 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.82353%)
+星期六 六月 13:03:34:33 301 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.82353% hit rate
+星期六 六月 13:03:34:33 306 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 306 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.83721%)
+星期六 六月 13:03:34:33 306 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.83721% hit rate
+星期六 六月 13:03:34:33 315 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 316 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.85057%)
+星期六 六月 13:03:34:33 316 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.85057% hit rate
+星期六 六月 13:03:34:33 317 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 317 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.86364%)
+星期六 六月 13:03:34:33 317 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.86364% hit rate
+星期六 六月 13:03:34:33 319 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 319 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.8764%)
+星期六 六月 13:03:34:33 319 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.8764% hit rate
+星期六 六月 13:03:34:33 321 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 321 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.888885%)
+星期六 六月 13:03:34:33 321 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.888885% hit rate
+星期六 六月 13:03:34:33 325 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 325 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.9011%)
+星期六 六月 13:03:34:33 326 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.9011% hit rate
+星期六 六月 13:03:34:33 331 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 332 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.91304%)
+星期六 六月 13:03:34:33 332 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.91304% hit rate
+星期六 六月 13:03:34:33 333 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 333 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.92473%)
+星期六 六月 13:03:34:33 333 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.92473% hit rate
+星期六 六月 13:03:34:33 335 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 336 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.93617%)
+星期六 六月 13:03:34:33 336 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.93617% hit rate
+星期六 六月 13:03:34:33 337 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 337 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.94737%)
+星期六 六月 13:03:34:33 338 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.94737% hit rate
+星期六 六月 13:03:34:33 342 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 342 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.95833%)
+星期六 六月 13:03:34:33 342 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.95833% hit rate
+星期六 六月 13:03:34:33 351 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 351 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.96907%)
+星期六 六月 13:03:34:33 351 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.96907% hit rate
+星期六 六月 13:03:34:33 352 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 352 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.97959%)
+星期六 六月 13:03:34:33 352 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.97959% hit rate
+星期六 六月 13:03:34:33 354 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 355 +0800 2015: mqeye: Checkout - 1/1 (HitRate=98.9899%)
+星期六 六月 13:03:34:33 355 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 98.9899% hit rate
+星期六 六月 13:03:34:33 356 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 356 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.0%)
+星期六 六月 13:03:34:33 356 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.0% hit rate
+星期六 六月 13:03:34:33 358 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 358 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.0099%)
+星期六 六月 13:03:34:33 359 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.0099% hit rate
+星期六 六月 13:03:34:33 360 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 360 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.01961%)
+星期六 六月 13:03:34:33 360 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.01961% hit rate
+星期六 六月 13:03:34:33 363 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 363 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.02912%)
+星期六 六月 13:03:34:33 363 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.02912% hit rate
+星期六 六月 13:03:34:33 364 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 364 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.03847%)
+星期六 六月 13:03:34:33 365 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.03847% hit rate
+星期六 六月 13:03:34:33 367 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 367 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.04762%)
+星期六 六月 13:03:34:33 367 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.04762% hit rate
+星期六 六月 13:03:34:33 369 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 369 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.0566%)
+星期六 六月 13:03:34:33 369 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.0566% hit rate
+星期六 六月 13:03:34:33 371 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 371 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.06542%)
+星期六 六月 13:03:34:33 371 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.06542% hit rate
+星期六 六月 13:03:34:33 372 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 373 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.07407%)
+星期六 六月 13:03:34:33 373 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.07407% hit rate
+星期六 六月 13:03:34:33 376 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 376 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.08257%)
+星期六 六月 13:03:34:33 376 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.08257% hit rate
+星期六 六月 13:03:34:33 381 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 381 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.09091%)
+星期六 六月 13:03:34:33 381 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.09091% hit rate
+星期六 六月 13:03:34:33 382 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:33 382 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.0991%)
+星期六 六月 13:03:34:33 382 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.0991% hit rate
+星期六 六月 13:03:34:33 384 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:34 633 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.10714%)
+星期六 六月 13:03:34:34 633 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.10714% hit rate
+星期六 六月 13:03:34:34 637 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:34 639 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.11504%)
+星期六 六月 13:03:34:34 639 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.11504% hit rate
+星期六 六月 13:03:34:34 640 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:36 019 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.1228%)
+星期六 六月 13:03:34:36 019 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.1228% hit rate
+星期六 六月 13:03:34:36 021 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:36 023 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.13043%)
+星期六 六月 13:03:34:36 023 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.13043% hit rate
+星期六 六月 13:03:34:36 025 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:36 134 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.13793%)
+星期六 六月 13:03:34:36 134 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.13793% hit rate
+星期六 六月 13:03:34:36 136 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:36 138 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.1453%)
+星期六 六月 13:03:34:36 138 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.1453% hit rate
+星期六 六月 13:03:34:36 141 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:37 148 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.15254%)
+星期六 六月 13:03:34:37 148 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.15254% hit rate
+星期六 六月 13:03:34:37 152 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:37 154 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.15966%)
+星期六 六月 13:03:34:37 154 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.15966% hit rate
+星期六 六月 13:03:34:37 156 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:38 167 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.166664%)
+星期六 六月 13:03:34:38 169 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.166664% hit rate
+星期六 六月 13:03:34:38 171 +0800 2015: mqeye: Checkin  - 0/1
+星期六 六月 13:03:34:38 173 +0800 2015: mqeye: Checkout - 1/1 (HitRate=99.17355%)
+星期六 六月 13:03:34:38 173 +0800 2015: mqeye: Statement cache hit [TYPE_FORWARD_ONLY,CONCUR_READ_ONLY,HOLD_CURSORS_OVER_COMMIT] - 99.17355% hit rate
+星期六 六月 13:03:34:38 175 +0800 2015: mqeye: Checkin  - 0/1

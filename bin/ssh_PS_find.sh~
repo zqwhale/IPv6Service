@@ -1,0 +1,8 @@
+#!/bin/bash
+RET=`ps ax | grep "ssh" | grep "$1" | grep -v "ssh_PS_find"` 
+if [ "$RET" = "" ]; then
+	echo "Nothing"
+else
+	echo "Find ssh"
+	echo $RET
+fi

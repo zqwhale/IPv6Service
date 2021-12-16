@@ -1,0 +1,18 @@
+#!/usr/bin/expect -f
+set RemoteUser [lindex $argv 0]
+set RemoteSrv	[lindex $argv 1]
+set MapPort [lindex $argv 2]
+set RPwd [lindex $argv 3]
+	
+set timeout 5
+
+spawn ssh $RemoteUser@$RemoteSrv -p $MapPort
+expect {
+	"*yes/no*" 	{send "yes\r";exp_continue};
+    "*password*" {send "$RPwd\r"};
+}
+expect "*]# " {send "exit\r" };
+expect "*\OpenSSH>" {send "exit\r" };
+
+expect eof
+
